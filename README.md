@@ -25,7 +25,7 @@ The Process Anomaly Detector is a Windows defensive deception tool that attempts
 
 ## Options
 1. Press X to stop the tool's scanning
-2. -- min (Number) to establish how many times a process must appear to become part of the baseline
+2. -- min (Number) to establish how many times a process must appear to become part of the baseline. The tool automatically does 5 times, but this number can be changed wih this command.
 
 ## License
 This tool is provided for educational purposes only. Use responsibly.
