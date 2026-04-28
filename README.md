@@ -5,7 +5,7 @@ The Process Anomaly Detector is a Windows defensive deception tool that attempts
 
 ## Features
 - Detects process masquerading and unusual execution contexts.
-- Logs alerts to console and Windows Event Log.
+- Logs alerts to console.
 - Baseline persists in Windows Registry.
 
 ## Compilation
